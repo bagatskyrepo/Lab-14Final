@@ -1,8 +1,4 @@
-Ось повний, професійно оформлений файл `README.md`, який базується на вашому чек-листі. Він написаний англійською мовою (стандарт для GitHub), але структурований так, щоб викладач міг просто копіювати команди та перевіряти пункти один за одним.
 
-Скопіюйте код нижче і вставте його у файл `README.md` у корені вашого проєкту.
-
-```markdown
 # Lab 10-14: Secure HTTP API with Spring Boot
 
 This project demonstrates a secure, layered REST API built with Spring Boot. It implements industry-standard security practices including JWT authentication, Role-Based Access Control (RBAC), data isolation, input validation, and secure logging. It also includes a full CI/CD pipeline using GitHub Actions.
